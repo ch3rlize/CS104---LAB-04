@@ -24,3 +24,9 @@ header{
 .anchor{
     text-decoration: none;
 }
+
+.headings{
+    text-decoration: underline dashed;
+    text-decoration-line:underline ;
+    text-decoration-style: dashed;
+}
