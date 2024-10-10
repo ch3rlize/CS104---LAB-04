@@ -17,6 +17,10 @@ header{
 .main-content{
     background-color: yellow;
 }
-p{
+/*q5*/
+#id1{
     text-align: center;
+}
+.anchor{
+    text-decoration: none;
 }
