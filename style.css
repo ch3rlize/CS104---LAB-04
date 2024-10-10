@@ -42,3 +42,6 @@ body{
 .custom-font{
     font-family: 'Times New Roman', Times, serif;
 }
+#id2{
+    text-transform: uppercase;
+}
