@@ -45,3 +45,6 @@ body{
 #id2{
     text-transform: uppercase;
 }
+.capitalize-text{
+    text-transform:capitalize ;
+}
