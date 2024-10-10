@@ -17,3 +17,6 @@ header{
 .main-content{
     background-color: yellow;
 }
+p{
+    text-align: center;
+}
