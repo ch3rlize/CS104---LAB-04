@@ -1,3 +1,11 @@
 header{
     background-color: blue; color: white;
 }
+
+/*q2*/
+.container{
+    background-color: lightgray; color: black;
+    p{
+       color: red; 
+    }
+}
